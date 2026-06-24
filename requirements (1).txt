@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas
+matplotlib
+seaborn
+scikit-learn==1.3.2
+scipy==1.11.4
+xgboost==2.0.3
+imbalanced-learn
+shap==0.44.1
+streamlit
+joblib
